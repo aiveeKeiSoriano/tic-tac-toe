@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Board from './components/Board'
+import Game from './components/Game'
 import './styles.css'
 
 ReactDOM.render(
-  <Board />,
+  <Game />,
   document.getElementById('root')
 );
 
